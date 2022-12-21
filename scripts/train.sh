@@ -28,10 +28,10 @@ function train_stl() {
 }
 
 ## To train a standard Resnet uncomment the line below
-train_stl "resnet152" 0 0 0 0 0 
+#train_stl "resnet152" 0 0 0 0 0 
 
 ## To train a Resnet with local elastic transform uncomment the line below 
-# train_stl "resnet_local_elastic_152" 1.6 1 0 4 0
+train_stl "resnet_local_elastic_152" 1.6 1 0 4 0
 
 ## To train a Resnet with rotation scaling transform uncomment the line below 
 # train_stl "resnet_rotation_scaling_152" 1.6 1 0 4 0
