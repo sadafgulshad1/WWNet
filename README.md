@@ -11,16 +11,16 @@ This is the official implementation of
 ## Experiments
 To reproduce the experiments on STL10 follow the instructions below
 
-For training run 
+For training in the scripts folder run 
 ```
 bash train.sh
 ```
-in scripts folder.
-For testing run 
+
+For testing in the scripts folder run 
 ```
 bash test.sh
 ```
-in scripts folder.
+
 ## Acknowledgements
 The Robert Bosch GmbH is acknowledged for financial support.
 
