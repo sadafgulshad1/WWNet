@@ -28,10 +28,10 @@ function test_stl() {
 }
 
 ## To test a standard Resnet uncomment the line below
-test_stl "resnet152" 0 0 0 0 0 
+#test_stl "resnet152" 0 0 0 0 0 
 
 ## To test a Resnet with local elastic transform uncomment the line below 
-# test_stl "resnet_local_elastic_152" 1.6 1 0 4 0
+test_stl "resnet_local_elastic_152" 1.6 1 0 4 0
 
 ## To test a Resnet with rotation scaling transform uncomment the line below 
 # test_stl "resnet_rotation_scaling_152" 1.6 1 0 4 0
