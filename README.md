@@ -16,12 +16,12 @@ Rotation scaling transform and local elastic transform:
 ## Experiments
 To reproduce the experiments on STL10 follow the instructions below
 
-For training in the **scripts** folder run 
+For training in the *scripts* folder run 
 ```
 bash train.sh
 ```
 
-For testing in the **scripts** folder run 
+For testing in the *scripts* folder run 
 ```
 bash test.sh
 ```
