@@ -12,6 +12,7 @@ This is the official implementation of
 Rotation scaling transform and local elastic transform:
 
 <img src="https://github.com/sadafgulshad1/Wiggling-Weights-to-Improve-the-Robustness-of-Classifiers/blob/main/Transforms.gif"  />
+
 ## Experiments
 To reproduce the experiments on STL10 follow the instructions below
 
